@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e38f82c3706bcf4cbe68c2763f1065a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 211787
+  packageName: Health System (Includes Learning Video)
+  packageVersion: 1.0
+  assetPath: Assets/CodeMonkey/HealthSystem/Prefabs/pfHealthBarUI.prefab
+  uploadId: 487200
